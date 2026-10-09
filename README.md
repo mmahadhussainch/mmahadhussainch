@@ -1,7 +1,7 @@
 # Hafiz Muhammad Mahad Hussain
 
 ## About Me
-I am a Data Science student currently pursuing my Bachelor's degree at the University of Engineering and Technology (UET) Lahore. I have a strong foundation in software application development and database administration. My current focus is on building efficient, data-driven solutions and automating workflows to solve real-world problems.
+I am a Data Science student currently pursuing my Bachelor's degree at the University of Engineering and Technology (UET) Lahore. I have a strong foundation in software application development, data visualization and database administration. My current focus is on building efficient, data-driven solutions and automating workflows to solve real-world problems.
 
 ## Skills & Technologies
 
